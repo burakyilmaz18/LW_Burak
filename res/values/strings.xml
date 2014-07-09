@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Land Wars</string>
+    
+    
+    <!-- MAIN MENU -->
+
+ 	<string name="playButton">PLAY</string>
+ 	<string name="creditsButton">CREDITS</string>
+ 	<string name="volumeButton">SOUND</string>
+ 	
+ 	
+ 	<!-- CREDITS -->
+ 	
+ 	<string name="credits">LAND WARS\n\n\n\nBT Development\n\nTunahan BAYIR &amp; Burak YILMAZ</string>
+ 	
+ 	
+ 	
+ 	
+ 	
+ 		
+</resources>
+
